@@ -1,5 +1,5 @@
 {
-  "version": "8.0.1",
-  "download_url": "https://github.com/StreamReadyUpdater/StreamReady/releases/download/v8.0.1/StreamReady_Setup_8.0.1.exe",
-  "release_notes": "Update system validation release for StreamReady."
+  "version": "8.0.2",
+  "download_url": "https://github.com/StreamReadyUpdater/StreamReady/releases/download/v8.0.2/StreamReady_Setup_8.0.2.exe",
+  "release_notes": "Update system improvements. StreamReady now closes automatically before installing updates to prevent file access conflicts."
 }
