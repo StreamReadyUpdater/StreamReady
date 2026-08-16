@@ -1,5 +1,5 @@
 {
   "version": "8.0.1",
-  "download_url": "https://github.com/StreamReadyUpdater/StreamReady/releases/download/v8.0.0/StreamReady_Setup_8.0.0.exe",
-  "notes": "First stable release of StreamReady."
+  "download_url": "https://github.com/StreamReadyUpdater/StreamReady/releases/download/v8.0.1/StreamReady_Setup_8.0.1.exe",
+  "release_notes": "Update system validation release for StreamReady."
 }
